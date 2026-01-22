@@ -1,5 +1,0 @@
-displayName=Cerberus Lava Pre-Warn
-author=Anthony
-description=Alerts before Cerberus spawns lava pools
-tags=cerberus,lava,pvm,boss
-plugins=net.runelite.client.plugins.cerberuslavaalert.CerberusLavaAlertPlugin
